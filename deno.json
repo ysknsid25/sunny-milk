@@ -1,0 +1,13 @@
+{
+  "name": "@sunny-milk/sunny-milk",
+  "description": "2ちゃんねる ネットミーム",
+  "version": "1.0.0",
+  "exports": "./mod.ts",
+  "license": "MIT",
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1"
+  }
+}
