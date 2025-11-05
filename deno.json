@@ -1,7 +1,7 @@
 {
   "name": "@sunny-milk/sunny-milk",
   "description": "2ちゃんねる ネットミーム",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "exports": "./mod.ts",
   "license": "MIT",
   "tasks": {
